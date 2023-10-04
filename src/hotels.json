@@ -1,0 +1,128 @@
+{
+    "cities": [
+      {
+        "id": 1,
+        "name": "New York"
+      },
+      {
+        "id": 2,
+        "name": "Los Angeles"
+      },
+      {
+        "id": 3,
+        "name": "Chicago"
+      },
+      {
+        "id": 4,
+        "name": "San Francisco"
+      }
+    ],
+    "hotels": [
+      {
+        "id": 1,
+        "name": "Ambience",
+        "img": "https://tse3.mm.bing.net/th?id=OIP.EY_ZEoRXJ7jq1M-0-CyTewHaE7&pid=Api&P=0&h=180",
+        "cityId": 1,
+        "price":440
+      },
+      {
+        "id": 2,
+        "name": "Oberio",
+        "img":"https://q-xx.bstatic.com/xdata/images/hotel/max1200/17173782.jpg?k=741c80ecda52c527bdcba7756c51ac618f3e7c40416b3cf58aa68e0753edbda5&o=",
+        "cityId": 1,
+        "price":440
+      },
+      {
+        "id": 3,
+        "name": "MGF",
+        "img":"https://q-xx.bstatic.com/xdata/images/hotel/max1200/17173782.jpg?k=741c80ecda52c527bdcba7756c51ac618f3e7c40416b3cf58aa68e0753edbda5&o=",
+        "cityId": 1,
+        "price":440
+      },
+      {
+        "id": 4,
+        "name": "Taj Hotel",
+        "img":"https://q-xx.bstatic.com/xdata/images/hotel/max1200/17173782.jpg?k=741c80ecda52c527bdcba7756c51ac618f3e7c40416b3cf58aa68e0753edbda5&o=",
+        "cityId": 1,
+        "price":440
+      },
+      {
+        "id": 4,
+        "name": "Mumbai Hotel",
+        "img": "https://tse3.mm.bing.net/th?id=OIP.EY_ZEoRXJ7jq1M-0-CyTewHaE7&pid=Api&P=0&h=180",
+        "cityId": 1,
+        "price":440
+      },
+      {
+        "id": 4,
+        "name": "Five Star",
+        "img":"https://q-xx.bstatic.com/xdata/images/hotel/max1200/17173782.jpg?k=741c80ecda52c527bdcba7756c51ac618f3e7c40416b3cf58aa68e0753edbda5&o=",
+        "cityId": 1,
+        "price":440
+      },
+      {
+        "id": 4,
+        "name": "Lemon tree",
+        "img": "https://tse3.mm.bing.net/th?id=OIP.EY_ZEoRXJ7jq1M-0-CyTewHaE7&pid=Api&P=0&h=180",
+        "cityId": 2,
+        "price":440
+      },
+      {
+        "id": 5,
+        "name": "High Class",
+        "img":"https://q-xx.bstatic.com/xdata/images/hotel/max1200/17173782.jpg?k=741c80ecda52c527bdcba7756c51ac618f3e7c40416b3cf58aa68e0753edbda5&o=",
+        "cityId": 2,
+        "price":440
+      },
+      {
+        "id": 6,
+        "name": "Hotel Singh",
+        "img":"https://q-xx.bstatic.com/xdata/images/hotel/max1200/17173782.jpg?k=741c80ecda52c527bdcba7756c51ac618f3e7c40416b3cf58aa68e0753edbda5&o=",
+        "cityId": 2,
+        "price":440
+      },
+      {
+        "id": 7,
+        "name": "Hotel Valley",
+        "img": "https://tse3.mm.bing.net/th?id=OIP.EY_ZEoRXJ7jq1M-0-CyTewHaE7&pid=Api&P=0&h=180",
+        "cityId": 3,
+        "price":440
+      },
+      {
+        "id": 8,
+        "name": "Hotel Suncity",
+        "img":"https://q-xx.bstatic.com/xdata/images/hotel/max1200/17173782.jpg?k=741c80ecda52c527bdcba7756c51ac618f3e7c40416b3cf58aa68e0753edbda5&o=",
+        "cityId": 3,
+        "price":440
+      },
+      {
+        "id": 9,
+        "name": "Hotel wall",
+        "img":"https://q-xx.bstatic.com/xdata/images/hotel/max1200/17173782.jpg?k=741c80ecda52c527bdcba7756c51ac618f3e7c40416b3cf58aa68e0753edbda5&o=",
+        "cityId": 3,
+        "price":440
+      },
+      {
+        "id": 10,
+        "name": "Hotel Apna",
+        "img": "https://tse3.mm.bing.net/th?id=OIP.EY_ZEoRXJ7jq1M-0-CyTewHaE7&pid=Api&P=0&h=180",
+        "cityId": 4,
+        "price":440
+      },
+      {
+        "id": 11,
+        "name": "Hotel Amit",
+        "img":"https://q-xx.bstatic.com/xdata/images/hotel/max1200/17173782.jpg?k=741c80ecda52c527bdcba7756c51ac618f3e7c40416b3cf58aa68e0753edbda5&o=",
+        "cityId": 4,
+        "price":440
+      },
+      {
+        "id": 12,
+        "name": "Hotel Veracity",
+        "img": "https://tse3.mm.bing.net/th?id=OIP.EY_ZEoRXJ7jq1M-0-CyTewHaE7&pid=Api&P=0&h=180",
+        "cityId": 4,
+        "price":440
+      }
+    ]
+  }
+  
